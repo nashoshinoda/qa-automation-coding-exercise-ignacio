@@ -1,0 +1,8 @@
+HEADER = "//h1"
+SEARCH_FIELD = "//*[@id='username']"
+GO_BTN = "//button"
+USERNAME_MSG_AREA = "//*[@class='message-area']"
+REPO_MSG_AREA = "//*[@class='output-area']"
+REPO_AMOUNT = "//*[@class='repo-amount']"
+REPO_LIST_CONTAINER = "//*[@class='repo-list-container']"
+REPO_ITEM = "//*[@class='repo-row']"

@@ -1,0 +1,11 @@
+{
+    "url_to_test": "http://localhost:3000/",
+    "webdrivers" :
+    {
+        "chrome":
+            {
+                "path"    : "./resources/chromedriver.exe",
+                "version" : "114.0.5735.90"
+            }
+    }
+}
