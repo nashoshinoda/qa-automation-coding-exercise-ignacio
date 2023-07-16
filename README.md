@@ -23,7 +23,7 @@ This is a little Python Selenium project for an execise using the following tool
 * Run command **pytest** to execute the available test case.
 * Run command **allure serve reports/** to generate the HTML report once the test execution finished:
     ```sh
-    allure serve reports/html
+    allure serve reports
     Generating report to temp directory...
     Report successfully generated to C:\Users\IVELDE~1\AppData\Local\Temp\16445734970921447855\allure-report
     Starting web server...

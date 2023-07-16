@@ -12,5 +12,6 @@ class CustomLibs:
     `Return:`
         `String:` Name of a username.
     """
+
     def get_random_name(self):
         return name_list[random.randint(0, 2)]
