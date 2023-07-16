@@ -44,7 +44,7 @@ class RepoBrowserTests:
 
         assert RepoBrowserPage.validate_username_result(
             self, driver, expected_msg.USERNAME_NOT_FOUND
-        ), "The username {username} was found."
+        ), f"The username {username} was found."
 
     def test_no_repos(self, driver):
         WebDriverWait(driver, 3).until(
