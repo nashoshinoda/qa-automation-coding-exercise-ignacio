@@ -1,7 +1,7 @@
 # QA Automation coding exercise
 
 ### Summary
-This is a little Python Selenium project for an execise using the following tools:
+This is a little automation project to cover the instructions for the [QA Automation Coding Challenge](https://github.com/project-a/qa-automation-coding-challenge/) using the following tools:
 * Python 3.11.3
 * PyTest 7.4.0
 * Selenium 4.10.0
@@ -25,10 +25,10 @@ This is a little Python Selenium project for an execise using the following tool
     ```sh
     allure serve reports/html
     Generating report to temp directory...
-    Report successfully generated to C:\Users\IVELDE~1\AppData\Local\Temp\16445734970921447855\allure-report
+    Report successfully generated to C:\Users\USERNAME~1\AppData\Local\Temp\16445734970921447855\allure-report
     Starting web server...
     2021-06-19 14:06:09.114:INFO::main: Logging initialized @1697ms to org.eclipse.jetty.util.log.StdErrLog
-    Server started at <http://ip:port/>. Press <Ctrl+C> to exit
+    Server started at <http://RANDOM_IP:port/>. Press <Ctrl+C> to exit
     ```
     A new browser window will be automatically opened showing the results of the tests.
 
